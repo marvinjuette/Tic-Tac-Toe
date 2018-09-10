@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Name: Tic Tac Toe
+Specification-Title: "Tic Tac Toe"
+Specification-Version: "1"
+Specification-Vendor: "Marvin Jütte".
+Implementation-Title: "Tic Tac Toe"
+Implementation-Version: "build1"
+Implementation-Vendor: "Marvin Jütte"
