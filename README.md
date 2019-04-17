@@ -15,6 +15,6 @@ Das Spielfeld ist 3x3 Felder groß.
 ![Image not found][game_summary]
 
 
-[clear_game_field]: https://nivram710.ddns.net/res/images/devel/tic-tac-toe/clear_game_field.png "Leeres Spielfeld"
-[used_game_field]: https://nivram710.ddns.net/res/images/devel/tic-tac-toe/used_game_field.png "Spielfeld während eines Spiels"
-[game_summary]: https://nivram710.ddns.net/res/images/devel/tic-tac-toe/game_summary.png "Spiel Zusammenfassung"
+[clear_game_field]: https://res.nivram710.de/images/devel/tic-tac-toe/clear_game_field.png "Leeres Spielfeld"
+[used_game_field]: https://res.nivram710.de/images/devel/tic-tac-toe/used_game_field.png "Spielfeld während eines Spiels"
+[game_summary]: https://res.nivram710.de/images/devel/tic-tac-toe/game_summary.png "Spiel Zusammenfassung"
