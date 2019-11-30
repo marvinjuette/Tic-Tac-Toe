@@ -5,7 +5,7 @@ Um Tic Tac Toe zu spielen musst du auf einem PC mit Windows einfach nur die star
 Das Ziel von Tic Tac Toe ist es, drei seiner Zeichen in eine Reihe zu bekommen, dabei ist es egal, ob die Zeichen diagonal, vertikal oder horizontal angeordnet sind.<br/>
 Das Spielfeld ist 3x3 Felder groß.
 
-## Bilde(r):
+## Bilder:
 ### Spielfeld:
 #### Neus Spiel:
 ![Image not found][clear_game_field]
